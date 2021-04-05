@@ -1,0 +1,4 @@
+- Working with bicycle ride sharing data in San Francisco called ride_sharing.
+ It contains information on the start and end stations, the trip duration,
+ and some user information for a bike sharing service.
+

@@ -1,0 +1,27 @@
+- Create a regression plot.
+
+- looking at FiveThirtyEight's data on which US State has the worst drivers.
+ The data set includes summary level information about fatal accidents
+ as well as insurance premiums for each state as of 2010.
+
+- Look at the difference between the regression plotting functions.
+
+- Plotting multiple variables.
+
+- This data set includes geographic information by state and area.
+ It might be interesting to see if there is a difference in relationships
+ based on the Region of the country.
+
+- Facetting multiple regressions.
+
+- Try creating multiple plots by Region to see if that is a more useful visualization.
+
+-Building a PairGrid
+exploring the relationship between pairs of variables. 
+
+- Using a pairplot
+
+- Additional pairplots
+more examples of how the pairplot() can be customized for quickly analyzing data
+ and determining areas of interest that might be worthy of additional analysis.
+

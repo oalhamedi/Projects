@@ -1,0 +1,3 @@
+seattle_weather stores information about the weather in Seattle.
+austin_weather stores information about the weather in Austin.
+ create a visualization that will allow you to compare the rainfall in these two cities.

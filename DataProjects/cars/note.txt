@@ -1,0 +1,31 @@
+- We'll explore Seaborn's mpg dataset, which contains one row per car model and includes information
+ such as the year the car was made, the number of miles per gallon ("M.P.G.") it achieves,
+ the power of its engine (measured in "horsepower"), and its country of origin.
+
+- What is the relationship between the power of a car's engine ("horsepower") and its fuel efficiency ("mpg")?
+And how does this relationship vary by the number of cylinders ("cylinders") the car has? Let's find out.
+
+- Exploring Seaborn's mpg dataset by looking at the relationship between how fast a car can accelerate ("acceleration")
+and its fuel efficiency ("mpg"). Do these properties vary by country of origin ("origin")?
+
+- We'll continue to explore Seaborn's mpg dataset, which contains one row per car model and includes information
+ such as the year the car was made, its fuel efficiency (measured in "miles per gallon" or "M.P.G"),
+ and its country of origin (USA, Europe, or Japan).
+
+- How has the average miles per gallon achieved by these cars changed over time?
+Let's use line plots to find out!
+
+- Visualize how the distribution of miles per gallon has changed over time.
+
+- How has the average horsepower for cars changed over time? And does this trend differ by country of origin?
+
+- The relationship between a car's weight and its horsepower.
+
+- Adding a title to a FacetGrid object.
+
+- Adding a title and axis labels.
+
+- We'll continue looking at the miles per gallon dataset.
+ In the code provided, we create a point plot that displays
+ the average acceleration for cars in each of the three places of origin. 
+

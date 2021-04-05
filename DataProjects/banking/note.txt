@@ -1,0 +1,9 @@
+- Working with a retail banking dataset stored in the banking DataFrame.
+ The dataset contains data on the amount of money stored in accounts,
+ their currency, amount invested, account opening date and last transaction date
+ that were consolidated from American and European branches.
+
+- New data has been merged into the banking DataFrame that contains details on
+ how investments in the inv_amount column are allocated across four different funds A, B, C and D.
+
+- Furthermore, the age and birthdays of customers are now stored in the age and birth_date columns respectively.

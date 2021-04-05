@@ -1,0 +1,14 @@
+- The United States makes available CSV files containing tax data by ZIP or postal code,
+ allowing us to analyze income information in different parts of the country.
+ We'll focus on a subset of the data, vt_tax_data_2016.csv, which has select tax statistics by ZIP code in Vermont in 2016.
+
+- Focus on household composition to see if there are differences by geography and income level.
+
+- Import a file in chunks.
+
+- Specify the correct data types with the dtype argument.
+
+- Set custom NA values.
+
+- Skip bad data. 
+

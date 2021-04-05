@@ -1,0 +1,25 @@
+- We have a sample dataset from a survey of children about their favorite animals.
+
+- Exploring our dataset that contains the responses to a survey sent out to young people.
+ We might suspect that young people spend a lot of time on the internet,
+ but how much do they report using the internet each day? 
+
+- Changing style and palette
+
+- Changing the scale
+ We'll continue to look at the dataset containing responses from a survey of young people.
+ Does the percentage of people reporting that they feel lonely vary depending on how many siblings they have? 
+
+- Summary of the type of people answering this survey, including their age and gender.
+ Providing these basic summaries is always a good practice when dealing with an unfamiliar dataset.
+
+-  We'll look at the dataset containing responses from a survey given to young people.
+ One of the questions asked of the young people was: "Are you interested in having pets?
+
+- We'll return to our young people survey dataset and investigate whether the proportion of people
+ who like techno music ("Likes Techno") varies by their gender ("Gender") or where they live ("Village - town").
+
+
+
+
+

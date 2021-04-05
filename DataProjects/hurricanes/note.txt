@@ -1,0 +1,2 @@
+- Work with a list of the hurricanes that made landfall in Florida from 1950 to 2017. There were 235 in total.
+ Check out the variable florida_hurricane_dates, which has all of these dates.

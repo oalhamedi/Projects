@@ -1,0 +1,6 @@
+- Working with the restaurants DataFrame which has data on various restaurants.
+ Your ultimate goal is to create a restaurant recommendation engine, but you need to first clean your data.
+
+This version of restaurants has been collected from many sources,
+ where the cuisine_type column is riddled with typos, and should contain only italian,
+ american and asian cuisine types.

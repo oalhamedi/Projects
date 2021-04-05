@@ -1,0 +1,43 @@
+Hue and scatter plots
+
+- exploring data from students in secondary school.
+ We have a lot of information about each student like their age,
+ where they live, their study habits and their extracurricular activities.
+
+- For now, we'll look at the relationship between the number of absences
+ they have in school and their final grade in the course,
+ segmented by where the student lives (rural vs. urban area).
+
+Hue and count plots
+
+- How many students live in urban vs. rural areas,
+ and does this vary based on what school the student attends? 
+
+Creating subplots with col and row.
+
+Creating two-factor subplots.
+
+- Does a student's first semester grade ("G1") tend to correlate with their final grade ("G3")?
+
+- Explore data from students in secondary school. The "study_time" variable records each student's
+ reported weekly study time as one of the following categories:
+ "<2 hours", "2 to 5 hours", "5 to 10 hours", or ">10 hours".
+ Do students who report higher amounts of studying tend to get better final grades?
+ Let's compare the average final grade among students in each category using a bar plot.
+
+- We explored the relationship between studying and final grade by using a bar plot
+ to compare the average final grade ("G3") among students in different categories of "study_time".
+
+- Use the student_data dataset to compare the distribution of final grades ("G3")
+ between students who have internet access at home and those who don't. To do this,
+ we'll use the "internet" variable, which is a binary (yes/no)
+ indicator of whether the student has internet access at home.
+
+- Use the student_data dataset to compare the distribution of final grades ("G3")
+ between students who are in a romantic relationship and those that are not.
+ We'll use the "romantic" variable, which is a yes/no indicator of whether
+ the student is in a romantic relationship.
+
+- Exploring the dataset of students in secondary school.
+ This time, we'll ask the question: is being in a romantic relationship associated with higher or lower school attendance?
+ And does this association differ by which school the students attend?

@@ -1,0 +1,7 @@
+- Working with a list of all bike trips for one Capital Bikeshare bike, W20529,
+ from October 1, 2017 to December 31, 2017. This list has been loaded as onebike_datetimes.
+
+- Each element of the list is a dictionary with two entries:
+ start is a datetime object corresponding to the start of a trip
+ (when a bike is removed from the dock) and end is a datetime object
+ corresponding to the end of a trip (when a bike is put back into a dock).

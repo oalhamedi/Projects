@@ -1,0 +1,11 @@
+- Building a JointGrid and jointplot
+look at the relationship between humidity levels and total rentals to see
+ if there is an interesting relationship we might want to explore later.
+
+- Jointplots and regression
+Since the previous plot does not show a relationship between humidity and rental amounts,
+we can look at another variable that we reviewed earlier.
+Specifically, the relationship between temp and total_rentals.
+
+- Complex jointplots
+look at the different distributions for riders that are considered casual versus those that are registered.

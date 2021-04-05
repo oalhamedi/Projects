@@ -1,0 +1,1 @@
+Analyze stock returns from the S&P 500.

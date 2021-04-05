@@ -1,0 +1,2 @@
+-Creating a table that for each movie will list the movie director and a member of the crew on one row.
+-Find out which movie sequels earned the most compared to the original movie.

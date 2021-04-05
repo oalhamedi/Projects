@@ -1,0 +1,9 @@
+
+visualize the number of gold medals won by each country in the provided medals DataFrame.
+create a stacked bar chart that shows the number of gold, silver, and bronze medals won by each country.
+display the distribution of weights of medalists in gymnastics and in rowing in the 2016 Olympic games for a comparison between them.
+visualize and label the histograms of two sports: "Gymnastics" and "Rowing".
+plot the mean temperature across months and add the standard deviation at each point as y errorbars.
+use the data about medalist heights that you previously visualized as histograms, and as bar charts with error bars, and l visualize it as boxplots.
+visualizing the weight of medalis in the 2016 summer Olympic Games again, from a dataset that has some unknown number of branches of sports in it. 
+we will extract the unique values of the "Sport" column.
