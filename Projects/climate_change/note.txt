@@ -1,0 +1,4 @@
+climate_change.csv that contains measurements of CO2 levels and temperatures made on the 6th of 
+every month from 1958 until 2016.
+create a visualization that will allow you to compare the climate change.
+create a scatter plot of the climate_change data.

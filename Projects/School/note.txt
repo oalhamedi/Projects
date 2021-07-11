@@ -1,0 +1,13 @@
+- Looking at data from US School Improvement Grants in 2010.
+ This program gave nearly $4B to schools to help them renovate or improve their programs.
+
+- We will compare a pandas histogram vs the seaborn distplot.
+
+- Plot a histogram.
+
+- Rug plot and kde shading.
+
+- Look at the 2010 School Improvement data and segment the data by the types of school improvement models used.
+
+- Use the color palette options presentedto show how colors can easily be included in the plots.
+

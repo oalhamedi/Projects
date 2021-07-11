@@ -1,0 +1,8 @@
+- Working with the airlines DataFrame which contains survey responses
+ on the San Francisco Airport from airline customers.
+
+- The DataFrame contains flight metadata such as the airline, the destination,
+ waiting times as well as answers to key questions regarding cleanliness, safety,
+ and satisfaction. Another DataFrame named categories was created,
+ containing all correct possible values for the survey columns.
+

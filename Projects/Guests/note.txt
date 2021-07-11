@@ -1,0 +1,10 @@
+- Creating heatmaps
+
+looking at guests of the Daily Show from 1999 - 2015 and see how the occupations
+of the guests have changed over time.
+
+The data includes the date of each guest appearance as well as their occupation. 
+
+- Customizing heatmaps
+
+continue to use the Daily Show data that is stored in the df variable but we will customize the output.

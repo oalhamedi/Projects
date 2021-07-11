@@ -1,0 +1,26 @@
+- Look at some details from the US Department of Education on 4 year
+ college tuition information and see if there are any interesting insights
+ into which variables might help predict tuition costs.
+
+- Look at the relationship between tuition and the percent of students
+ that receive Pell grants. A Pell grant is based on student financial
+ need and subsidized by the US Government. In this data set,
+ each University has some percentage of students that receive these grants.
+
+- Look at the relationship between tuition and the Undergraduate population
+ abbreviated as UG in this data. We will start by looking at a scatter plot
+ of the data and examining the impact of different bin sizes on the visualization. 
+
+- Building a FacetGrid
+
+- Using a factorplot
+recreate one of the plots from the previous exercise using factorplot()
+and show how to create a boxplot on a data-aware grid.
+
+- Using a lmplot
+For the first set of exercises, we will look at the Undergraduate population (UG)
+ and compare it to the percentage of students receiving Pell Grants (PCTPELL).
+
+For the second lmplot exercise, we can look at the relationships between
+Average SAT scores and Tuition across the different degree types and public vs. non-profit schools.
+
